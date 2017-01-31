@@ -1,2 +1,7 @@
 # Hello-World2
-Mijn tweede kennismaking met git hub
+
+Hallo iedereen,
+
+Ik ga jullie iets leren van git-hub:
+masters, branches, snapshots, commits etc.
+
